@@ -1,0 +1,128 @@
+@media screen and (min-width: 1500px) and (max-width: 2500px){
+    .product_name_container p{
+        font-size: 50px;
+    }
+}
+
+
+
+#navbar_container{
+    height: 11%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#laptop_dropdown_container{
+    display: none;
+}
+
+#lines_container{
+    height: 55%;
+    width: 42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lines{
+    height: 4px;
+    width: 100%;
+    background: oldlace;
+    border-radius: 8px;
+}
+
+
+#logo_container{
+    height: 100%;
+    width: 45%;
+}
+
+#nav_logo{
+    height: 100%;
+    width: 100%;
+}
+
+.material-symbols-outlined.nav_icon_laptop{
+    display: none;
+}
+
+
+
+.material-symbols-outlined.nav_icons{
+    font-size: 40px;
+}
+
+
+#menu_content_container{
+    width: 82vw;
+    min-height: 100vh;
+    background: #FF3B00;
+    padding: 0 20px 20px;
+    text-align: right;
+    position: absolute;
+    top:0;
+    left:0;
+    transform: translateX(-650px); 
+    transition: .8s ease;
+   
+}
+
+#menu_content_container li{
+    list-style: none;
+    font-size: 35px;
+    margin-bottom: 5px;
+    text-align: start;
+    font-weight: 900;
+}
+
+#menu_content_container li a{
+    text-decoration: none;
+    color: black;
+}
+
+.dropdown_container ul li a{
+    font-weight: 150;
+}
+
+.material-symbols-outlined.menu_close_icon{ 
+    margin-top: 30px;
+   
+}
+
+.dropdown_container{
+    display: none;
+}
+
+#collections_title{
+    display: inline-block;
+}
+
+#merch_title{
+    display: inline-block;
+}
+
+#music_title{
+    display: inline-block;
+}
+
+.dropdown_titles{
+    text-align: start;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dropdown_container_one{
+    display: block;
+}
+
+.dropdown_container_two{
+    display: block;
+}
+
+.dropdown_container_three{
+    display: block;
+}

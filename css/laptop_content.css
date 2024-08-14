@@ -1,0 +1,91 @@
+.buy_buttons{
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 8px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.laptop_buy_buttons_container{
+    padding: 10px;
+}
+
+.mobile_buy_buttons{
+    display: none;
+}
+
+.product_name_container p{
+    font-size: 30px;
+}
+
+.two_limited_edition_container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.social_media_icons_container{
+    width: 40vw;
+    margin-bottom: 15px;
+}
+
+.last_contact_container{
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.last_contact_container ul{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last_contact_container ul li a{
+    font-size: 15px;
+    margin-left: 18px;
+}
+
+.input_email{
+    width: 300px;
+}
+
+.katy_perry_name_container{
+    height: 90px;
+}
+
+.katy_perry_name_container p{
+    padding-left: 18px;
+    letter-spacing: 50px;
+    word-spacing: 40px;
+    font-weight: 900;
+    color: white;
+    font-size: 35px; 
+}
+
+#logo_container{
+    width: 20%;
+}
+
+.material-symbols-outlined.nav_icons{
+    font-size: 50px;
+}
+
+.pre_order_button{
+    margin-top: 80px;
+    font-size: 25px;
+    height: 80px;
+    width: 300px;
+}
+
+.full_content{
+    padding: 0 8%;
+    grid-template-columns: 32.8% 32.8% 32.8%;
+    grid-gap: 0;
+}
+
+.two_limited_edition_container{
+    padding: 0 15%;
+}

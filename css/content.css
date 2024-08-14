@@ -1,0 +1,252 @@
+.pre_order_button_container{
+    text-align: center;   
+}
+
+.pre_order_button{
+    font-weight: 900;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    border: 5px solid #6B727F;
+    border-radius: 50px;
+    padding: 10px;
+    font-size: 7vw;
+    min-height: 12vh;
+    width: 85vw;
+    background: linear-gradient(#313D5F,#A2AEBE,#D3E0E8,#AFC5E4,#9DA5BE,#D45662 113%);
+}
+
+.full_content{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+.content_container{
+    padding: 20px;  
+    min-height: 200px;  
+    margin-bottom: 10px;  
+}
+
+#pre_store_exclusive_button{
+    font-family: "Kalnia Glaze";
+    font-size: 20px;
+}
+
+
+.product_name_container{
+    margin-top: 10px;
+    text-align: center;  
+}
+
+.product_name_container p{
+    font-weight: 900;
+    margin-top: 10px;  
+}
+
+.image_container{
+    border: 3px solid white;
+    min-height: 30%;
+    width: 100%;
+    border-radius: 20px;
+    background: linear-gradient(to right bottom, #BAA1C7 , #ABC9E9 50%)
+}
+
+.images{
+    height: 100%;
+    width: 100%; 
+}
+
+.buttons_container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.buy_buttons{
+
+    display: block;
+    background: #030712;
+    font-family: "Kalnia Glaze";
+    padding: 5px;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 0px solid;
+    margin-bottom: 10px;
+    
+    
+}
+
+.laptop_buy_buttons{
+    display: none;
+}
+
+
+.limited_buy_buttons{
+    font-size: 25px ! important;
+    padding: 12px ! important;
+}
+
+
+.butterfly_pic_container{
+    height: 300px;
+    text-align: center;
+    margin: 35px 0 40px;
+}
+
+.butterfly_pic{
+    height: 100%;
+}
+
+.footer_container{
+    min-height: 300px;
+    width: 100vw;
+    background: #FF3B00;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.katy_perry_name_container{
+    height: 60px;
+    width: 100vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+.katy_perry_name_container p{
+    padding-left: 18px;
+    letter-spacing: 20px;
+    word-spacing: 12px;
+    font-weight: 900;
+    color: white;
+    font-size: 15px; 
+}
+
+.sign_up_container{
+    height: 380px;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+
+
+.input_email{
+    height: 50px;
+    width: 70vw;
+    border: 2px solid;
+    font-size: 20px;
+    padding-left: 10px;
+    font-size: 15px;
+    outline: none;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+.email_text{
+    font-weight: 900;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.privacy_link{
+    color: purple;
+    text-decoration: none;
+}
+
+.sign_up_details{
+    width: 70%;
+    font-weight: 900;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+
+
+.input_email::placeholder{
+    font-size: 18px;
+    letter-spacing: normal;
+}
+
+.sign_up_button{
+    display: block;
+    height: 55px;
+    width: 200px;
+    border: 5px solid;
+    border-radius: 30px;
+    background: transparent;
+    font-weight: 900;
+    font-size: 25px;
+    letter-spacing: 4px;
+    padding: 10px 20px;
+}
+
+
+.contact_container{
+    min-height: 80px;
+    width: 80vw;
+    margin-bottom: 30px;
+}
+
+.contact{
+    font-family: "Grey Qo";
+    font-weight: 900;
+    font-size: 25px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.social_media_icons_container{
+    min-height: 40px;
+    width: 90vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.last_contact_container{
+    min-height: 150px;
+    width: 90vw;
+    margin-bottom: 20px;
+}
+
+.last_contact_container ul{
+    width: 100%;
+}
+
+
+
+.last_contact_container ul li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.last_contact_container ul li a{
+    text-decoration: none;
+    font-weight: 900;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+
+
