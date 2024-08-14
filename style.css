@@ -1,0 +1,17 @@
+@import "css/structure.css";
+@import "css/color.css";
+@import "css/content.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Oswald";
+    height: 100vh;
+    background: linear-gradient(#6993D2,#709BD8,#C9EAF2,#D3DBE8,#E5A0BA,#6E7AB7);
+    
+}
+
