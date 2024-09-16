@@ -3,6 +3,8 @@ It's just a landing page of katy perry shopping website.
 
 <#E30E9F>Hello Universe</#E30E9F>
 
+<color>#E30E9F</color>
+
 
 $\color{blue}{\text{some text}}$
 
