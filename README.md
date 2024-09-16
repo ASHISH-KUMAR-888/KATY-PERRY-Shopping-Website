@@ -1,6 +1,10 @@
 # KATY-PERRY-Shopping-Website
 It's just a landing page of katy perry shopping website.
 
+
+$\color{blue}{\text{some text}}$
+
+
 !hello
 <span style="color: red;">This text is red.</span>
 
