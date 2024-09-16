@@ -1,3 +1,0 @@
-*.css linguist-detectable=true
-*.js linguist-detectable=true
-*.min.js linguist-vendored=false
